@@ -26,6 +26,7 @@ I'm a final year engineering student pursuing a Bachelor's degree in Artificial 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🤖 Programming & AI/ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -34,8 +35,4 @@ I'm a final year engineering student pursuing a Bachelor's degree in Artificial 
 
 ## 📫 Contact
 - 💼 LinkedIn: https://www.linkedin.com/in/yeddula-sai-sreesha-a024b7290/
-- 🔗 GitHub: https://github.com/Sreesha-Reddy  
-
----
-
-✨ *Always building, learning, and pushing ideas into reality.*
+- ✉️ Mail: sreeshareddy19@gmail.com
