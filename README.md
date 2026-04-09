@@ -1,21 +1,22 @@
 # Hi there, I'm Sreesha 👋
 
 ## 👩‍💻 About Me
-I'm a final year engineering student pursuing a Bachelor's degree in Artificial Intelligence and Machine Learning at Chaitanya Bharathi Institute of Technology. Passionate about **building real-world systems**, **full-stack web development** and **Artificial Intelligence and Machine Learning**. I enjoy designing and developing scalable applications that solve practical problems using modern web technologies and intelligent systems.
+I'm a final-year engineering student pursuing a Bachelor's degree in Artificial Intelligence and Machine Learning at Chaitanya Bharathi Institute of Technology. I’m passionate about building **scalable full-stack applications** and leveraging **AI/ML to solve real-world problems**. I enjoy working at the intersection of software engineering and intelligent systems, focusing on performance, usability, and practical impact.
 
 ---
 
 ## 🛠️ What I Do
-- Build **full-stack web applications**
-- Work with **modern frontend and backend technologies**
-- Explore **AI/ML concepts** and their real-world applications
-- Solve problems and turn ideas into practical products
-- Work with **Data Structures & Algorithms**
-- Participate in **multiple hackathons** and collaborative projects
+- Develop **scalable full-stack web applications**
+- Build and integrate **REST APIs and backend systems**
+- Apply **AI/ML techniques** to real-world datasets and problems
+- Solve complex problems using **Data Structures & Algorithms**
+- Design and ship **end-to-end projects** from idea to deployment
+- Actively participate in **hackathons and collaborative development**
 
 ---
 
 ## 🚀 Tech Stack
+
 ### 💻 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -31,6 +32,11 @@ I'm a final year engineering student pursuing a Bachelor's degree in Artificial 
 
 ### 🤖 Programming & AI/ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### ⚙️ DevOps & Deployment
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-222222?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
